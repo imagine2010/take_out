@@ -21,7 +21,7 @@
     <div class="container">
         <h1>建议的操作流程</h1>
 
-        <p>您可以在此查看源代码 <a href="">github</a></p>
+        <p>您可以在此查看源代码 <a href="https://github.com/yinminqian/take_out" target="_blank">github</a></p>
         <br>
         <br>
         <p>
