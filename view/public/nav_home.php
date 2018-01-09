@@ -25,7 +25,7 @@
         <h5>创始于1860年，百年老店，品质服务</h5>
         <h5>在开始之前,强烈建议您先查看介绍</h5>
         <br>
-        <a href="/referral"><button class="look">查看介绍</button></a>
+        <a href="/referral" style="color: white"><button class="look">查看介绍</button></a>
     </div>
     <div class="col-md-2"></div>
 </div>
