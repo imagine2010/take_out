@@ -1,0 +1,173 @@
+.nav {
+    background-color: #409EFF;
+    height: 80px;
+    color: white;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    line-height: 80px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.li {
+    background-color: #eeeeee;
+}
+
+._container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.user {
+    display: inline-block;
+    position: relative;
+    padding-bottom: 30px;
+}
+
+#user_btn {
+    position: absolute;
+    z-index: 111;
+    display: none;
+    background-color: #409EFF;
+    color: black;
+    width: 130px;
+}
+
+.user_btn a {
+    /*height: 10px;*/
+    /*color: black;*/
+    /*background-color: #409EFF;*/
+}
+
+.user_btn {
+    height: 30px;
+    background-color: #409EFF;
+}
+
+/*以上是分类导航的样式*/
+
+.nav_bar {
+
+}
+
+.nav_bar_i {
+    height: 50px;
+    padding-left: 50px;
+    transition: 0.5s;
+}
+
+.nav_bar a {
+    text-decoration: none;
+    line-height: 50px;
+}
+
+.nav_bar_i:hover {
+    background-color: #ecf5ff;
+}
+
+.new_order {
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .5);
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.ok_order {
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: none;
+    width: 70px;
+    background-color: #409EFF;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 0;
+}
+
+.no_order {
+    padding: 10px 0;
+    background-color: #F56C6C;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: none;
+    width: 70px;
+    outline: none;
+    border-radius: 5px;
+    color: white
+
+}
+.all_mon{
+    color: #FFAC41;
+}
+.wait_pro{
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 2px rgba(0, 0, 0, .5);
+    padding: 10px;
+    margin: 5px 0;
+}
+.wait_out{
+    margin-top: 5px;
+}
+.wait_out_{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+    border: none;
+    width: 70px;
+    background-color: #409EFF;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 0;
+}
+.ok_buy_btn{
+    cursor: pointer;
+}
+.wait_buy_btn{
+    cursor: pointer;
+}
+.ok_buy_btn{
+    color: #409EFF;
+}
+
+.state__{
+    color: #FFAC41;
+}
+.ok_order_{
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+.ok_order_:hover{
+    box-shadow: 0 0 3px rgba(0,0,0,.5);
+}
+.ord_nav{
+    padding-left: 25px;
+}
+.text_span{
+    display: inline-block;
+    margin: 5px;
+    padding-left: 25px;
+}
+.money_ii{
+    color:#FFAC41 ;
+    font-size: 25px;
+    font-weight: 500;
+
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.text_span_{
+    display: inline-block;
+    margin: 5px;
+    padding-left: 5px;
+}

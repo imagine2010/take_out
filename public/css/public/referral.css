@@ -1,0 +1,12 @@
+.nav {
+    background-color: #409EFF;
+}
+.nav a{
+    text-decoration: none;
+}
+.black{
+    color: white;
+    display: inline-block;
+    /*padding-left: 100px;*/
+}
+

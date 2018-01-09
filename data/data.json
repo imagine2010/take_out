@@ -1,0 +1,42 @@
+
+
+
+商品: {
+product_id: {
+tittle: product,
+count: XXXX,
+        pricr:XXX,
+
+},
+product_id: {
+tittle: product,
+count: XXXX,
+pricr:XXX,
+}
+}
+
+
+
+
+
+"snapshot"{
+订单号: XXXX,
+        //订单号后端生成
+
+送货地址: {
+地址: XXX,
+收货人姓名: XXX,
+收货人电话: XXX,
+},
+
+
+其他信息: {
+订单金额: XXX,
+订单备注:XXX,
+发票信息:XXX,
+发票性质:XX,
+}
+
+}
+
+

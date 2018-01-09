@@ -1,0 +1,64 @@
+body{
+    background-color: #F6F6F6;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.login_nav{
+    background-color: #1D1D1D;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.title{
+    margin-bottom: 20px;
+}
+.login{
+    color: white;
+    padding-left: 50px;
+    padding-right: 180px;
+    /*border: 2px solid white;*/
+    /*box-shadow: 0 0 5px white;*/
+    /*border-radius: 3px;*/
+}
+.btn_login{
+    /*float: right;*/
+}
+.msg_i{
+    color: #1E89E0;
+    text-decoration: none;
+}
+.msg_i:hover{
+    text-decoration: none;
+
+}
+
+.logo{
+    margin-top: 30px;
+    margin-left: 25px;
+    max-height: 100%;
+    max-width: 100%;
+    width: 100px;
+    height: 35px;
+}
+.buttom{
+    position: fixed;
+    bottom: 5px;
+    left: 0;
+    right: 0;
+}
+.buttom a:hover{
+    text-decoration: none;
+}
+
+.alert_i{
+    position: fixed;
+    z-index: 100;
+    right: 0;
+    top: 20px;
+    width: 400px;
+}
+button{
+    outline: none;
+}
