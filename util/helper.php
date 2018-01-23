@@ -44,11 +44,13 @@ function json($data)
 
 function tpl($path, $ext = "php")
 {
+    dd($path);
     return dirname(__FILE__) . "/../" . $path . ($ext ? "." . $ext : "");
 }
 
 function import($path, $ext = "php")
 {
+    var_dump(tpl($path));
     return require_once(tpl($path, $ext));
 }
 
@@ -63,7 +65,6 @@ function config($key)
     }
     return @$config[$key];
 }
-
 
 //返回值是否登录的布尔值
 //是否存在用户id
