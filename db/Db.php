@@ -4,7 +4,7 @@ class Db
 {
 
     public $table;
-    public $database = "take_out";
+    public $database = "yinminqian_take_out";
     public $pdo;
     public $sql;
     public $sql_select = "";
