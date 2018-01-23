@@ -44,7 +44,6 @@ function json($data)
 
 function tpl($path, $ext = "php")
 {
-    dd($path);
     return dirname(__FILE__) . "/../" . $path . ($ext ? "." . $ext : "");
 }
 
