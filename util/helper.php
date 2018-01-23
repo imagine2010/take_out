@@ -49,7 +49,6 @@ function tpl($path, $ext = "php")
 
 function import($path, $ext = "php")
 {
-    var_dump(tpl($path));
     return require_once(tpl($path, $ext));
 }
 
