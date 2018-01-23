@@ -14,6 +14,7 @@ import("api/merchant");
 init();
 function iNIt()
 {
+    dd(2);
     session_start();
     parse_uri();
 }
@@ -28,6 +29,7 @@ function parse_uri()
 
     switch ($arr[0]) {
         case '':
+        dd(1);
             import('view/public/nav_home');
             break;
         case"home":
