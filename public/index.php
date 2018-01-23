@@ -61,6 +61,7 @@ function parse_uri()
 
 
         case"login":
+        dd(1);
             import("view/public/login");
             break;
         case "signup":
