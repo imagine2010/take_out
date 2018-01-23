@@ -1,6 +1,6 @@
 <?php
 import("db/Db");
-import('validator/Validator');
+import('validator/validator');
 
 
 class Model extends Db
